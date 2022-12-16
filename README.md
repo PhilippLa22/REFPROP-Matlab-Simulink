@@ -9,3 +9,5 @@ Prerequisites:
 Link to the donwload page: https://trc.nist.gov/refprop/LINKING/Linking.htm#MatLabApplications
 
 Link to explanation how to log in as administrator: https://www.javatpoint.com/how-to-login-as-administrator-in-windows-10
+
+In collaberation with @PlopperHDx
