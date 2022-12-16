@@ -3,7 +3,7 @@ This tutorial shows how to include Refprop in Matlab and Simulink (English & Ger
 
 Prerequisites: 
   - MATLAB & REFPROP must be installed and be on the latest version. 
-  - Refprop must be installed under the following path: Prerequisites: C:\Program Files (x86)\REFPROP  
+  - Refprop must be installed under the following path: C:\Program Files (x86)\REFPROP  
   - Matlab is installed (in our case) under the following path: C:\Program Files
 
 Link to the donwload page: https://trc.nist.gov/refprop/LINKING/Linking.htm#MatLabApplications
